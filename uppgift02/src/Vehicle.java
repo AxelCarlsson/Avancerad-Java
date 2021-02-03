@@ -8,7 +8,7 @@ public class Vehicle {
     }
 
     public void changeVelocity(int velocityChange){
-        velocity += velocityChange;
+        velocity = velocityChange;
     }
 
     public int getVelocity() {
@@ -23,7 +23,4 @@ public class Vehicle {
         return weight;
     }
 
-    public void setWeight(int weight) {
-        this.weight = weight;
-    }
 }

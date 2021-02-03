@@ -2,8 +2,9 @@ public class Train extends Vehicle {
 
     private int wagons;
 
-    public Train(int velocity, int weight) {
+    public Train(int velocity, int weight, int wagons) {
         super(velocity, weight);
+        this.wagons = wagons;
     }
 
     public void connectWagon(){
@@ -14,7 +15,8 @@ public class Train extends Vehicle {
         return wagons;
     }
 
-    public void setWagons(int wagons) {
-        this.wagons = wagons;
+    public void printMe() {
+        System.out.println("Train with velocity: " + getVelocity()+ "km/h, weight: " + getWeight() +"kg and number of wagons: "+ getWagons());
     }
+
 }
