@@ -12,6 +12,5 @@ public class Main {
         boat1.printMe();
         bike1.printMe();
 
-
     }
 }
