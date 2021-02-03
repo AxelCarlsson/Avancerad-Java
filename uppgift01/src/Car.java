@@ -15,8 +15,8 @@ public class Car {
         return regNo;
     }
 
-    public void setRegNo(String regnr) {
-        this.regNo = regnr;
+    public void setRegNo(String regNo) {
+        this.regNo = regNo;
     }
 
     public String getModel() {
@@ -41,5 +41,10 @@ public class Car {
 
     public void setOwner(CarOwner owner) {
         this.owner = owner;
+    }
+
+    @Override
+    public String toString() {
+        return "Current car: " + brand + " " + model + " " + regNo + ", " + owner;
     }
 }

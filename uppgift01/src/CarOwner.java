@@ -4,6 +4,6 @@ public class CarOwner extends Person {
     }
 
     public String toString() {
-        return getName();
+        return "Owner is " + getName() + ", " + getAge() + " years";
     }
 }

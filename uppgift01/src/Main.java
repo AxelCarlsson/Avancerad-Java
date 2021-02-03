@@ -8,7 +8,19 @@ public class Main {
         CarOwner owner2 = new CarOwner("Mathilde", "Gatan 4", 28);
         CarOwner owner3 = new CarOwner("Karro", "Stigen 12", 39);
 
-        car1.setOwner(owner1);
+        car1.setOwner(owner3);
+        car2.setOwner(owner2);
+
         System.out.println(car1.getOwner());
+        System.out.println(car2.getOwner());
+
+        car1.setOwner(owner1);
+        car2.setOwner(owner3);
+
+        System.out.println(car1.getOwner());
+        System.out.println(car2.getOwner());
+
+        System.out.println(car1);
+        System.out.println(car2);
     }
 }
