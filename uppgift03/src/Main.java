@@ -21,6 +21,10 @@ public class Main {
         EFirst eFirst = new EFirst();
         eFirst.x(); */
 
+        EFirstStatic eFirstStatic = new EFirstStatic();
+        eFirstStatic.x();
+
+
 
 
     }

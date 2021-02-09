@@ -7,7 +7,7 @@ import java.util.stream.Stream;
 public class EFirst {
     public static void x(){
         String[] name = {"Tony", "Benjamin", "Felicia", "Saleh", "Axel", "Denise", "Elsa", "Erik"};
-        Arrays.sort(name, Comparator.comparingInt(a -> (a.contains("E") ? 0 : 1)));
+        Arrays.sort(name, Comparator.comparingInt(a -> (a.contains("E") || a.contains("e") ? 0 : 1)));
         for(String names : name)
             System.out.println(names);
 
