@@ -18,8 +18,9 @@ public class Main {
 
         System.out.println();
 
-        */EFirst eFirst = new EFirst();
-        eFirst.x();
+        EFirst eFirst = new EFirst();
+        eFirst.x(); */
+
 
 
     }
