@@ -3,10 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Avancerad Java.iml" filepath="$PROJECT_DIR$/.idea/Avancerad Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testkod/testkod.iml" filepath="$PROJECT_DIR$/testkod/testkod.iml" />
       <module fileurl="file://$PROJECT_DIR$/uppgift01/uppgift01.iml" filepath="$PROJECT_DIR$/uppgift01/uppgift01.iml" />
       <module fileurl="file://$PROJECT_DIR$/uppgift02/uppgift02.iml" filepath="$PROJECT_DIR$/uppgift02/uppgift02.iml" />
       <module fileurl="file://$PROJECT_DIR$/uppgift03/uppgift03.iml" filepath="$PROJECT_DIR$/uppgift03/uppgift03.iml" />
       <module fileurl="file://$PROJECT_DIR$/uppgift04/uppgift04.iml" filepath="$PROJECT_DIR$/uppgift04/uppgift04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uppgift5a/uppgift5a.iml" filepath="$PROJECT_DIR$/uppgift5a/uppgift5a.iml" />
     </modules>
   </component>
 </project>

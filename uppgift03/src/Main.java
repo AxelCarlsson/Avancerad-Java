@@ -5,10 +5,10 @@ import java.util.Comparator;
 public class Main {
     public static void main(String[] args) {
         length();
-        reverseLength();
+        /*reverseLength();
         alphabetically();
         eFirst();
-        eFirstStatic();
+        eFirstStatic();*/
 
     }
 
