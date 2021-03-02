@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8dd3167-f0ae-43b5-8185-12218c6af7c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dogs_inheritance/dogs_inheritance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dogs_inheritance/src/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dogs_inheritance/src/DogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dogs_inheritance/src/Labrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dogs_inheritance/src/Yorkshire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testkod/src/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Avancerad Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testkod/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testkod/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testkod/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/testkod/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="a8dd3167-f0ae-43b5-8185-12218c6af7c1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +17,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
