@@ -1,3 +1,6 @@
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.time.*;
 import java.time.format.DateTimeFormatter;
@@ -10,12 +13,9 @@ import java.util.regex.Pattern;
 import java.util.regex.*;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
-
-
-
-
+        /*
         // ---- LOCALDATE OCH LOCALTIME ------
         LocalTime t = LocalTime.now();
         //System.out.println(t);
@@ -57,7 +57,7 @@ public class Main {
         System.out.println("Time : " + asiaZoneDateTime);
 
         String dateInString = "2015-10-01 10:15:55";
-
+        */
 
 
 
@@ -111,9 +111,10 @@ public class Main {
         System.out.println(Pattern.matches("[xyz]", "x"));
         System.out.println(Pattern.matches("[xyz]", "xxyyyz"));
 
+        */
         Pattern pattern = Pattern.compile("\\Babba|abba\\B");
         Matcher matcher = pattern.matcher("snabba");
         System.out.println("String matches the given pattern " + matcher.matches());
-        */
+
     }
 }
